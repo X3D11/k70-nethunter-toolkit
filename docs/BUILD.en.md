@@ -1,6 +1,6 @@
 # Build and Validation Workflow
 
-[简体中文](BUILD.md) | **English** | [Project overview](../README.en.md)
+[简体中文](BUILD.md) | **English** | [Project overview](../README.md)
 
 This public package is not a complete, reproducible kernel build environment. It excludes device configurations, vendor ABI captures, module-signing keys, complete toolchains, firmware, kernel source trees, and final images.
 

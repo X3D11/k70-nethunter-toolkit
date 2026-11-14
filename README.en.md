@@ -1,6 +1,6 @@
 # Redmi K70 NetHunter Adaptation and Privacy Toolkit
 
-[简体中文](README.md) | **English**
+[简体中文](README.zh-CN.md) | **English**
 
 Experimental notes and supporting source code for running Android-based NetHunter on the Redmi K70 (`vermeer`). This project provides tools for checking GKI/vendor module compatibility, launching Kali in a private mount namespace, and implementing reversible privacy controls.
 

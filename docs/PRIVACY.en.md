@@ -1,6 +1,6 @@
 # Privacy Protection and Audit Scope
 
-[简体中文](PRIVACY.md) | **English** | [Project overview](../README.en.md)
+[简体中文](PRIVACY.md) | **English** | [Project overview](../README.md)
 
 Publication uses an explicit file allowlist rather than uploading the original workspace after deleting a few sensitive files. The original Git history, partition images, device databases, logs, personal directories, attachments, accounts, tokens, keys, third-party APK/rootfs archives, and vendor binaries are excluded.
 

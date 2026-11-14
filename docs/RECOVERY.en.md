@@ -1,6 +1,6 @@
 # Recovery and Rollback
 
-[简体中文](RECOVERY.md) | **English** | [Project overview](../README.en.md)
+[简体中文](RECOVERY.md) | **English** | [Project overview](../README.md)
 
 This public package contains no personal device backups or flashable images.
 
