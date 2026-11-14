@@ -1,5 +1,7 @@
 # Redmi K70 NetHunter 适配与隐私控制工具集
 
+**简体中文** | [English](README.en.md)
+
 面向 Redmi K70（`vermeer`）的 Android NetHunter 实验记录与辅助源码。项目整理了 GKI 内核与厂商模块兼容性检查、隔离 Kali chroot 启动，以及可恢复隐私控制的实现示例。
 
 **这是源码与方法工具集，不是官方 NetHunter 设备支持声明，也不是通用一键刷机包。** 发布包不包含可直接刷写的内核、厂商模块、固件或 APK。请勿把其他设备的镜像用于自己的手机。
